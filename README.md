@@ -1,9 +1,9 @@
  👋 **Hello World, eu sou o Lucas** 
 - 👀 Tenho interesse em ser desenvolvedor full stack
 - 🌱 Estou aprendendo C, javaScript, Java e MySQLn
-- 👻 Aluno do Connect 2022 no Biopark em Toledo -PR
+- 👻 Aluno de TSI na UTFPR em Toledo -PR
 
-Ola, sou um engenheiro civil buscando mudar de carreira (e de vida).
-Em junho de 2022 entrei no curso para formação de programados, Connect no Biopark.
-Ainda em busca da primeira oportunidade nessa nova área, por enquanto no meu git tenho alguns atividades que fiz, sinta-se livre para dar uma olhada.  
+Em 2022 decidi buscar novos caminhos além da engenharia civil e me tornar desenvolvedor. 
+Participei do Biopark Connect 2022 como ponto inicial dessa mudança e atualmente curso TSI.
+Sou uma pessoa criativa e gosto de trabalhar em novas coisas, que me estimulem. Tenho maior afinidade com a parte de Front-End e estou focado nessa área. 
 
